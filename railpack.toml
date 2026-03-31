@@ -1,0 +1,8 @@
+[providers.node]
+enabled = false
+
+[deploy]
+staticDirectory = "public"
+
+[providers.staticfile]
+enabled = true
